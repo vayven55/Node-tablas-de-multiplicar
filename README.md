@@ -3,12 +3,8 @@
 
 Esta es una aplicación para generar tablas de multiplicar 
 
-Ejecutar
+Ejecutar: npm install
 
-´´´´´´´´´´´
-npm install
-
-´´´´´´´´´´´
 =======
 # Node-tablas-de-multiplicar
 Aplicación de comandos en node. Trabajando con npm (fs).writeFile  y (yargs).argv
