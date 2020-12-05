@@ -1,0 +1,15 @@
+{
+  "name": "03-base-node",
+  "version": "1.0.0",
+  "description": "Esta es una palicacion de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.1"
+  }
+}
